@@ -1,0 +1,10 @@
+renders/*
+!renders/.gitkeep
+.venv/
+__pycache__/
+*.duckdb
+*.duckdb.wal
+*.duckdb.tmp
+*.duckdb.tmp.wal
+.DS_Store
+.env

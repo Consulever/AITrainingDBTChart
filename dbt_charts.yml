@@ -1,0 +1,5 @@
+sources:
+  tpch:
+    type: duckdb
+    path: ./data/tpch.duckdb
+    schema: main
