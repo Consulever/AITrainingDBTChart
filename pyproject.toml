@@ -3,7 +3,7 @@ name = "aitraining-dbt-chart"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
-    "dbt-charts>=0.7.1",
+    "dbt-charts>=0.8.0",
     "duckdb>=1.5.5",
 ]
 

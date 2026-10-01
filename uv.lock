@@ -35,7 +35,7 @@ dependencies = [
 
 [package.metadata]
 requires-dist = [
-    { name = "dbt-charts", specifier = ">=0.7.1" },
+    { name = "dbt-charts", specifier = ">=0.8.0" },
     { name = "duckdb", specifier = ">=1.5.5" },
 ]
 
@@ -275,7 +275,7 @@ wheels = [
 
 [[package]]
 name = "dbt-charts"
-version = "0.7.1"
+version = "0.8.0"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "dbt-adapters" },
@@ -308,7 +308,7 @@ dependencies = [
     { name = "watchfiles" },
 ]
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/01/7b/f2d33d63aafe9e78fcbb56e969c7415ec3d38cf450c2e8bb8635f4570494/dbt_charts-0.7.1-py3-none-any.whl", hash = "sha256:f8b29aeee8c456d367d21b21c824f2b28a257f17902ad8c7b65e0e9fd11f3d3e", size = 7856510, upload-time = "2026-09-11T23:47:41.698Z" },
+    { url = "https://files.pythonhosted.org/packages/01/4e/e7818fc8daf2a50fc1be24f20798a36797e337e1ff720e71ee1f1b1ac64f/dbt_charts-0.8.0-py3-none-any.whl", hash = "sha256:8c502aa77bd1e13fe9eb0e8bf5f0642dac4d3409fbd308ac1236b49e46e1876c", size = 7940899, upload-time = "2026-09-15T18:56:49.795Z" },
 ]
 
 [[package]]
