@@ -6,3 +6,6 @@ dependencies = [
     "dbt-charts>=0.7.1",
     "duckdb>=1.5.5",
 ]
+
+[tool.uv]
+system-certs = true
